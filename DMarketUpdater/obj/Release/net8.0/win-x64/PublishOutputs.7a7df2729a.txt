@@ -1,0 +1,2 @@
+C:\Program Files\work\git\BITS\DMarket\DMarket_dev\DMarketUpdater\bin\Release\net8.0\win-x64\publish\Updater.pdb
+C:\Program Files\work\git\BITS\DMarket\DMarket_dev\DMarketUpdater\bin\Release\net8.0\win-x64\publish\Updater.exe
