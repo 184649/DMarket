@@ -13,8 +13,8 @@ namespace DMarket;
 
 public static class AutoUpdater
 {
-    private const string VERSION_URL = "https://raw.githubusercontent.com/Chairman-bits/DMarket/main/version.json";
-    private const string RELEASE_NOTES_URL = "https://raw.githubusercontent.com/Chairman-bits/DMarket/main/release-notes.json";
+    private const string VERSION_URL = "https://raw.githubusercontent.com/184649/DMarket/main/version.json";
+    private const string RELEASE_NOTES_URL = "https://raw.githubusercontent.com/184649/DMarket/main/release-notes.json";
     private const string CurrentAppExeName = "DMarket.exe";
 
     private static readonly string[] LegacyExeNames = Array.Empty<string>();

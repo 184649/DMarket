@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMarket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd75906616590fb2f3a509b5a9dd856ae5b94f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6100e3cec023acfa6ac24026096bc3b63d8a5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMarket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMarket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
